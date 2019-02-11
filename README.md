@@ -12,7 +12,6 @@ While referring to some material I did came across some methods as **Abraham ele
 
 But need to understand which method is used in commercial measuring instruments.
 
-_**Note**: Im not going to make an instrument by taking suggestion from this post and I clearly understand the risk at these Power levels._
 
 
   [1]: https://www.mrt.ac.lk/web/sites/default/files/elect/files/HV_Chap6.pdf
